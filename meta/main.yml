@@ -1,5 +1,6 @@
 ---
-dependencies: []
+dependencies:
+  - role: clickhouse_role
 
 galaxy_info:
   description: lighthouse
@@ -13,3 +14,4 @@ galaxy_info:
         - all
   galaxy_tags:
     - lighthouse
+    
